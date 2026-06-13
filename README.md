@@ -4,10 +4,9 @@ I will update this repository whenever I have a project that I want to publish, 
 (though i think maybe the timestampgenerator could be a separate project.. oh well.)
 
 ## Inside, we have...
-
 ### *Go*
-- calculator
-- exam grade calculator ("examiner")
+- [calculator](Go/calc.go)
+- [exam grade calculator ("examiner")](Go/examiner.go)
 ### *Python*
-- timestamp generator
-- expense tracker using argparse
+- [timestamp generator](Python/timestampgen.py)
+- [expense tracker using argparse](Python/expensetracker.py)
